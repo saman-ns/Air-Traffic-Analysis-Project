@@ -2,6 +2,9 @@
 
 The Air Traffic Analysis Project represents a deep dive into the aviation industry's data, underscoring my skills in SQL and data analytics. This project was crafted with a dual focus: to offer valuable business insights for investment decisions in the airline industry and to showcase my SQL expertise.
 
+## The Dataset used for the project:
+https://www.transtats.bts.gov/DatabaseInfo.asp?QO_VQ=EFD&DB_URL=
+
 ## Project Background:
 Working with a dataset comprising flight details and airport information for 2018 and 2019, the project aims to answer critical business questions for a hypothetical investment fund interested in airline stocks. The data, sourced from the Bureau of Transportation Statistics, includes various aspects like flight dates, delays, cancellations, distances, and specific airport data.
 
